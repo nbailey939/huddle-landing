@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/nbailey939/huddle-landing)
-- Live Site URL: [Live Site](https://your-live-site-url.com)
+- Live Site URL: [Live Site](https://nbailey939.github.io/huddle-landing/)
 
 ## My process
 
